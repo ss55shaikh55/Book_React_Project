@@ -1,0 +1,23 @@
+.containerDiv{
+    display: flex;
+    flex: 1;
+    justify-content: flex-start;
+    background-color: blueviolet;
+    padding: 10vh;
+}
+
+.imgaeDiv{
+    height: 50vh;
+    width: 30vw;
+    background-color: bisque;
+}
+
+.bookInfoDiv{
+    width: 50vw;
+    background-color: azure;
+}
+
+.bookHeading{
+    font-size: "90px";
+    color:blue;
+}
